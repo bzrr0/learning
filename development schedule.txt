@@ -1,0 +1,118 @@
+####
+#en#
+####
+
+This is the study process on technology and development that I will use between July and December 2023, focusing on Data Science, Machine Learning and NLP.
+The "schedule" spreadsheet present in this "learning" directory provides the process in detail, here is the "how?"
+
+Summary: This will be a 6-month process, with 2 non-consecutive weeks of study per month and each month containing one of the following topics:
+1. Data Science Fundamentals(Python basics, Data handling, Data visualization, statistics & prob., Machine Learning basics, Domain-specific kwdg)
+2. Machine Learning(Supervised learning, Unsupervised learning, Ensemble methods, Feature engineering, Model evaluation and selection, Advanced ML methods)
+3. Deep Learning(Neural networks, Convolutional Neural Networks, Recurrent Neural Networks (rnns), Long Short-Term Memory (lstm), Autoencoders, Reinforcement Learning, Frameworks)
+4. Python Automation and Integration(Web scraping, Automation tools, Web development, Cloud computing, Databases, Blockchain)
+5. Natural Language Processing (NLP) and Text Analytics(Text preprocessing, Feature extraction, Sentiment analysis, Text classification, Named entity recognition, Language models)
+6. Time Series Analysis and Forecasting(Time series decomposition, Moving averages and smoothing techniques, Autoregression (AR) and Moving Average (MA) models, State-space models, Machine learning methods, Deep learning methods)
+
+1. Data Science Fundamentals(DS)
+Python basics: variables, data types, functions, loops, conditionals
+Data handling: importing/exporting files, data cleaning, and preprocessing, Pandas library
+Data visualization: Matplotlib, Seaborn, interactive plots, plotting techniques
+Statistics and Probability: descriptive, inferential statistics, hypothesis testing, probability distributions
+Machine Learning basics: supervised, unsupervised learning, model evaluation, Scikit-learn library
+Domain-specific knowledge: industry-specific applications, business understanding, use cases
+2. Machine Learning(ML)
+Supervised learning: classification, regression, decision trees, SVM, KNN
+Unsupervised learning: clustering, K-means, hierarchical clustering, DBSCAN
+Ensemble methods: random forests, boosting, bagging, stacking, XGBoost
+Feature engineering: feature selection, feature extraction, dimensionality reduction
+Model evaluation and selection: cross-validation, performance metrics, hyperparameter tuning
+Advanced ML methods: outlier detection, recommendation systems, anomaly detection
+3. Deep Learning(DL)
+Neural networks: perceptron, multilayer perceptron, backpropagation
+Convolutional Neural Networks (CNNs): image classification, object detection, feature extraction
+Recurrent Neural Networks (RNNs), Long Short-Term Memory (LSTM): natural language processing, time series
+Autoencoders: unsupervised learning/modeling of distributions, data compression/denoising
+Reinforcement Learning: Q-learning, Deep-learning, policy gradients
+Frameworks: TensorFlow, PyTorch, Keras
+4. Python Automation and Integration(PAI)
+Web scraping: BeautifulSoup, Requests, Scrapy, Selenium
+Automation tools: Python scripts, Task schedulers, file manipulation, APIs
+Web development: Flask, Django, web APIs 
+Cloud computing: AWS, Google Cloud Platform, Azure Machine Learning, data storage 
+Databases: SQL, NoSQL databases, SQLite, PostgreSQL, data retrieval/manipulation
+Blockchain: Ethereum, smart contracts, Solidity, decentralized applications, Web3.py
+5. Natural Language Processing (NLP) and Text Analytics(NLP-TA)
+Text preprocessing: tokenization, stemming, lemmatization, stopword removal
+Feature extraction: bag of words, TF-IDF, word embeddings (Word2Vec, GloVe)
+Sentiment analysis: polarity detection (positive/negative), emotion classification
+Text classification: topic modeling, document clustering, supervised learning approaches
+Named entity recognition (NER): extracting entities such as names, organizations
+Language models: transformers (BERT, GPT), contextual embeddings, fine-tuning for NLP tasks
+6. Time Series Analysis and Forecasting(TSA&F)
+Time series decomposition: trend, seasonality, cyclical, random components
+Moving averages and smoothing techniques: simple, weighted, exponential smoothing
+Autoregression (AR) and Moving Average (MA) models: ARIMA, SARIMA, ARIMAX
+State-space models: Kalman Filter, Hidden Markov Models
+Machine learning methods: regression, decision trees, ensemble methods, neural networks
+Deep learning methods: recurrent neural networks (RNN), LSTM, GRU, attention mechanisms
+
+
+#######
+#pt-br#
+#######
+
+Este é o processo de estudo sobre tecnologia e desenvolvimento que utilizarei entre julho e dezembro de 2023, com foco em Data Science, Machine Learning e NLP.
+A planilha de "agenda" presente neste diretório de "aprendizagem" fornece o processo em detalhes, aqui está o "como?"
+
+Resumo: Este será um processo de 6 meses, com 2 semanas não consecutivas de estudo por mês e cada mês contendo um dos seguintes tópicos:
+1. Fundamentos da ciência de dados (noções básicas de Python, manipulação de dados, visualização de dados, estatísticas e problemas, noções básicas de aprendizado de máquina, kwdg específico do domínio)
+2. Machine Learning (aprendizado supervisionado, aprendizado não supervisionado, métodos de conjunto, engenharia de recursos, avaliação e seleção de modelos, métodos avançados de ML)
+3. Deep Learning (redes neurais, redes neurais convolucionais, redes neurais recorrentes (rnns), memória de longo prazo (lstm), codificadores automáticos, aprendizado por reforço, estruturas)
+4. Automação e Integração Python (Web Scraping, Ferramentas de Automação, Desenvolvimento Web, Computação em Nuvem, Bancos de Dados, Blockchain)
+5. Processamento de linguagem natural (NLP) e análise de texto (pré-processamento de texto, extração de recursos, análise de sentimento, classificação de texto, reconhecimento de entidade nomeada, modelos de linguagem)
+6. Análise e previsão de séries temporais (decomposição de séries temporais, médias móveis e técnicas de suavização, modelos de autorregressão (AR) e média móvel (MA), modelos de espaço de estado, métodos de aprendizado de máquina, métodos de aprendizado profundo)
+
+1. Data Science Fundamentals(DS)
+Noções básicas de Python: variáveis, tipos de dados, funções, loops, condicionais
+Manipulação de dados: importação/exportação de arquivos, limpeza de dados e pré-processamento, biblioteca Pandas
+Visualização de dados: Matplotlib, Seaborn, gráficos interativos, técnicas de plotagem
+Estatística e Probabilidade: estatística descritiva, inferencial, teste de hipóteses, distribuições de probabilidade
+Noções básicas de aprendizado de máquina: aprendizado supervisionado e não supervisionado, avaliação de modelo, biblioteca Scikit-learn
+Conhecimento específico do domínio: aplicativos específicos do setor, compreensão do negócio, casos de uso
+2. Machine Learning(ML)
+Aprendizagem supervisionada: classificação, regressão, árvores de decisão, SVM, KNN
+Aprendizado não supervisionado: agrupamento, K-means, agrupamento hierárquico, DBSCAN
+Métodos de conjunto: florestas aleatórias, boosting, bagging, stacking, XGBoost
+Engenharia de recursos: seleção de recursos, extração de recursos, redução de dimensionalidade
+Avaliação e seleção de modelos: validação cruzada, métricas de desempenho, ajuste de hiperparâmetros
+Métodos avançados de ML: detecção de outliers, sistemas de recomendação, detecção de anomalias
+3. Deep Learning(DL)
+Redes neurais: perceptron, perceptron multicamadas, retropropagação
+Redes Neurais Convolucionais (CNNs): classificação de imagens, detecção de objetos, extração de características
+Redes Neurais Recorrentes (RNNs), Memória de Longo Prazo (LSTM): processamento de linguagem natural, séries temporais
+Autoencoders: aprendizagem/modelagem não supervisionada de distribuições, compressão/redução de ruído de dados
+Aprendizagem por Reforço: Q-learning, Deep-learning, gradientes de políticas
+Estruturas: TensorFlow, PyTorch, Keras
+4. Python Automation and Integration(PAI)
+Web scraping: BeautifulSoup, Requests, Scrapy, Selenium
+Ferramentas de automação: scripts Python, agendadores de tarefas, manipulação de arquivos, APIs
+Desenvolvimento Web: Flask, Django, APIs Web
+Computação em nuvem: AWS, Google Cloud Platform, Azure Machine Learning, armazenamento de dados
+Bancos de dados: SQL, bancos de dados NoSQL, SQLite, PostgreSQL, recuperação/manipulação de dados
+Blockchain: Ethereum, contratos inteligentes, Solidity, aplicativos descentralizados, Web3.py
+5. Natural Language Processing(NLP) e Análise de Texto (NLP-TA)
+Pré-processamento de texto: tokenização, lematização, lematização, remoção de stopword
+Extração de recursos: saco de palavras, TF-IDF, incorporação de palavras (Word2Vec, GloVe)
+Análise de sentimento: detecção de polaridade (positivo/negativo), classificação de emoções
+Classificação de texto: modelagem de tópicos, agrupamento de documentos, abordagens de aprendizado supervisionado
+Reconhecimento de entidade nomeada (NER): extração de entidades como nomes, organizações
+Modelos de linguagem: transformadores (BERT, GPT), incorporações contextuais, ajuste fino para tarefas de NLP
+6. Time Series Analysis and Forecasting(TSA&F)
+Decomposição de séries temporais: tendência, sazonalidade, cíclica, componentes aleatórios
+Médias móveis e técnicas de suavização: suavização simples, ponderada e exponencial
+Modelos de autorregressão (AR) e média móvel (MA): ARIMA, SARIMA, ARIMAX
+Modelos de espaço de estados: filtro de Kalman, modelos ocultos de Markov
+Métodos de aprendizado de máquina: regressão, árvores de decisão, métodos de ensemble, redes neurais
+Métodos de aprendizagem profunda: redes neurais recorrentes (RNN), LSTM, GRU, mecanismos de atenção
+
+

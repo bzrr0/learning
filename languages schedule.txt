@@ -1,0 +1,262 @@
+####
+#en#
+####
+-
+This is the language study process that I will be using between July and December 2023.
+The "schedule" spreadsheet present in this "learning" directory provides the process in detail(here is "how").
+-
+The summary is a process of 3 weeks of study (and a free week for mental balance):
+- Each week, one of the following 4 related language branches is studied: 1. English, German, Dutch; 2. Spanish, French, Italian; 3. Japanese, Chinese, Korean; 4. Russian, Polish.
+- The numerical order represents the order of priority and the highest desired objective.
+- Every two days a language is worked on, on Sunday I study any content that I didn't get during the week.
+- Every month have one central theme for all the languages (so I can use my memory more correctly):
+1. Pronunciation and Phonetics
+2. Grammar Fundamentals
+3. Vocabulary Development
+4. Reading and Listening Comprehension
+5. Speaking and Writing Skills
+6. Cultural Context and Language Usage
+-
+EN - DE - DU 
+1. Pronunciation and Phonetics
+   - Vowel sounds: long/short vowels, diphthongs
+   - Consonant sounds: voiced/unvoiced consonants, clusters
+   - Intonation and stress patterns: word stress, sentence stress falling/rising intonation
+2. Grammar Fundamentals
+   - Nouns and articles: definite/indefinite articles, plural forms, gender (in German and Dutch)
+   - Verbs: conjugation, regular/irregular verbs, tenses, modal verbs
+   - Sentence structure: word order, negation, questions, and compound/complex sentences
+3. Vocabulary Development
+   - Core vocabulary: high-frequency words, thematic vocabulary (food, transportation, etc.)
+   - Word formation: prefixes, suffixes, compound words, false friends (German and Dutch)
+   - Idiomatic expressions: idioms, collocations, phrasal verbs (particularly in English)
+4. Reading and Listening Comprehension
+   - Reading strategies: skimming, scanning, reading for specific information or main ideas
+   - Listening strategies: active listening, identifying context and speakers, note-taking
+   - Text types and genres: fiction, non-fiction, news articles, podcasts, videos, and audio clips
+5. Speaking and Writing Skills
+   - Speaking fluency: pronunciation practice, conversation skills, expressing opinions
+   - Writing mechanics: sentence formation, paragraphs, punctuation, tone and style
+   - Types of writing: formal/informal correspondence (emails, letters) and essays
+6. Cultural Context and Language Usage
+   - Social norms: greetings, etiquette, politeness and formality
+   - Regional variations: dialects, accents, colloquial expressions, differences in vocabulary
+   - History and culture: insights into literature, arts, traditions, and customs
+-
+ES - FR - IT
+1. Pronunciation and Phonetics
+   - Vowel sounds: long/short vowels, nasal vowels (particularly in French), accents
+   - Consonant sounds: voiced/unvoiced consonants, specific sounds like rolled 'r'
+   - Intonation and stress patterns: word stress, sentence stress, falling/rising intonation
+2. Grammar Fundamentals
+   - Nouns and articles: definite/indefinite articles, plural forms, gender
+   - Verbs: conjugation, regular/irregular verbs, tenses, subjunctive mood (particularly in Spanish)
+   - Sentence structure: word order, negation, questions, and compound/complex sentences
+3. Vocabulary Development
+   - Core vocabulary: high-frequency words, thematic vocabulary (food, travel, etc.)
+   - Word formation: prefixes, suffixes, compound words, false friends between the languages
+   - Idiomatic expressions: idioms, collocations, phrasal verbs and variances in each language
+4. Reading and Listening Comprehension
+   - Reading strategies: skimming, scanning, reading for specific information or main ideas
+   - Listening strategies: active listening, identifying speaker intent and context, note-taking
+   - Text types and genres: fiction, non-fiction, news articles, podcasts, videos, and audio clips
+5. Speaking and Writing Skills
+   - Speaking fluency: pronunciation practice, conversation skills, expressing opinions
+   - Writing mechanics: sentence formation, paragraphs, punctuation, tone and style
+   - Types of writing: formal/informal correspondence (emails, letters) and essays
+6. Cultural Context and Language Usage
+   - Social norms: greetings, etiquette, politeness and formality, cultural insight in each country
+   - Regional variations: dialects, accents, colloquial expressions, differences in vocabulary
+   - History and culture: insights into literature, arts, traditions, and customs
+-
+JP - CH - KR
+1. Pronunciation and Phonetics
+   - Vowel sounds: long/short vowels, specific vowel sounds unique to each language
+   - Consonant sounds: voiced/unvoiced consonants, specific consonants unique to each language
+   - Intonation and stress patterns: sentence stress, falling/rising intonation, and pitch accents
+2. Writing Systems and Characters
+   - Japanese: Hiragana, Katakana, and Kanji
+   - Chinese: Simplified and Traditional Chinese characters, stroke order
+   - Korean: Hangul syllabic alphabet, stroke order, and character composition
+3. Grammar Fundamentals
+   - Nouns, particles, and pronouns: subject, object, possessive, demonstrative
+   - Verbs and adjectives: conjugation, regular/irregular verbs, tenses, honorifics (politeness levels)
+   - Sentence structure: basic word order, negation, questions, and compound/complex sentences
+4. Vocabulary Development
+   - Core vocabulary: high-frequency words, thematic vocabulary (food, travel, etc.)
+   - Word formation: borrowing from Chinese characters, native words, and loanwords
+   - Idiomatic expressions: idioms, compound words, and unique expressions in each language
+5. Reading and Listening Comprehension
+   - Reading strategies: understanding context, reading for main ideas and specific information
+   - Listening strategies: active listening, identifying speaker intent and context, note-taking
+   - Text types and genres: comics, webtoons, podcasts, videos, and audio clips from different sources
+6. Cultural Context and Language Usage
+   - Social norms: greetings and etiquette, politeness levels, and differences in formality
+   - Regional variations: dialects, accents, colloquial expressions, and differences in vocabulary
+   - History and culture: insights into literature, arts, traditions, and customs
+-
+RU - PL
+1. Pronunciation and Phonetics
+   - Vowel sounds: long/short vowels, specific vowel sounds unique to each language
+   - Consonant sounds: voiced/unvoiced consonants, unique consonants, and soft/hard signs
+   - Intonation and stress patterns: word stress, sentence stress, falling/rising intonation
+2. Writing System and Alphabet
+   - Cyrillic alphabet (Russian) and Latin-based alphabet (Polish): unique characters, pronunciation, and cursive writing
+   - Basic elements: consonant-vowel combinations, double consonants, and digraphs
+   - Reading practice: text samples and exercises to familiarize with the alphabets
+3. Grammar Fundamentals
+   - Nouns and cases: nominative, genitive, dative, accusative, instrumental, and prepositional cases (Russian); nominative, genitive, dative, accusative, instrumental, and locative cases (Polish)
+   - Verbs: conjugation, regular/irregular verbs, aspect (perfective and imperfective), tenses, and verb prefixes
+   - Sentence structure: basic word order, negation, questions, and compound/complex sentences
+4. Vocabulary Development
+   - Core vocabulary: high-frequency words, thematic vocabulary (food, travel, etc.), and cognates
+   - Word formation: prefixes, suffixes, compound words, and language-specific patterns
+   - Idiomatic expressions: idioms, collocations, and unique expressions in Russian and Polish
+5. Reading and Listening Comprehension
+   - Reading strategies: understanding context, reading for main ideas and specific information
+   - Listening strategies: active listening, identifying speaker intent and context, note-taking
+   - Text types and genres: news articles, podcasts, videos, and audio clips from different sources
+6. Speaking and Writing Skills
+   - Speaking fluency: pronunciation practice, basic conversation skills, expressing basic opinions
+   - Writing mechanics: sentence formation, paragraphs, punctuation, and common expressions
+   - Types of writing: informal messages and basic formal writing, such as brief emails or letters
+-
+#######
+#pt-br#
+#######
+-
+Este é o processo de estudo de idiomas que usarei entre julho e dezembro de 2023.
+A planilha "cronograma" presente neste diretório "aprendizagem" fornece o processo em detalhes (aqui está "como").
+-
+O resumo é um processo de 3 semanas de estudo (e uma semana livre para equilíbrio mental):
+- A cada semana, um dos seguintes 4 ramos de idiomas relacionados é estudado: 1. Inglês, Alemão, Holandês; 2. Espanhol, Francês, Italiano; 3. Japonês, chinês, coreano; 4. Russo, polonês.
+- A ordem numérica representa a ordem de prioridade e o maior objetivo desejado.
+- A cada dois dias é trabalhado um idioma, no domingo eu estudo qualquer conteúdo que não consegui durante a semana.
+- Cada mês tem um tema central para todas as línguas (para que eu possa usar minha memória mais corretamente):
+1. Pronúncia e Fonética
+2. Fundamentos da gramática
+3. Desenvolvimento de Vocabulário
+4. Compreensão de Leitura e Audição
+5. Habilidades de fala e escrita
+6. Contexto cultural e uso da linguagem
+-
+EN - DE - DU
+1. Pronúncia e Fonética
+     - Sons de vogais: vogais longas/curtas, ditongos
+     - Sons consonantais: consoantes sonoras/surdas, clusters
+     - Padrões de entonação e acentuação: acentuação da palavra, acentuação da frase com entonação descendente/ascendente
+2. Fundamentos da gramática
+     - Substantivos e artigos: artigos definidos/indefinidos, formas plurais, gênero (em alemão e holandês)
+     - Verbos: conjugação, verbos regulares/irregulares, tempos verbais, verbos modais
+     - Estrutura da frase: ordem das palavras, negação, perguntas e frases compostas/complexas
+3. Desenvolvimento de Vocabulário
+     - Vocabulário básico: palavras de alta frequência, vocabulário temático (alimentação, transporte, etc.)
+     - Formação de palavras: prefixos, sufixos, palavras compostas, falsos amigos (alemão e holandês)
+     - Expressões idiomáticas: expressões idiomáticas, colocações, phrasal verbs (especialmente em inglês)
+4. Compreensão de Leitura e Audição
+     - Estratégias de leitura: skimming, digitalização, leitura de informações específicas ou ideias principais
+     - Estratégias de escuta: escuta ativa, identificação de contexto e oradores, anotações
+     - Tipos e gêneros de texto: ficção, não ficção, artigos de notícias, podcasts, vídeos e clipes de áudio
+5. Habilidades de fala e escrita
+     - Fluência de fala: prática de pronúncia, habilidades de conversação, expressão de opiniões
+     - Mecânica da escrita: formação de frases, parágrafos, pontuação, tom e estilo
+     - Tipos de escrita: correspondência formal/informal (e-mails, cartas) e ensaios
+6. Contexto cultural e uso da linguagem
+     - Normas sociais: saudações, etiqueta, polidez e formalidade
+     - Variações regionais: dialetos, sotaques, expressões coloquiais, diferenças de vocabulário
+     - História e cultura: insights sobre literatura, artes, tradições e costumes
+-
+ES - FR - TI
+1. Pronúncia e Fonética
+     - Sons vocálicos: vogais longas/curtas, vogais nasais (especialmente em francês), acentos
+     - Sons consonantais: consoantes sonoras/surdas, sons específicos como 'r' enrolado
+     - Padrões de entonação e acentuação: acentuação da palavra, acentuação da frase, entonação descendente/ascendente
+2. Fundamentos da gramática
+     - Substantivos e artigos: artigos definidos/indefinidos, formas plurais, gênero
+     - Verbos: conjugação, verbos regulares/irregulares, tempos verbais, modo subjuntivo (especialmente em espanhol)
+     - Estrutura da frase: ordem das palavras, negação, perguntas e frases compostas/complexas
+3. Desenvolvimento de Vocabulário
+     - Vocabulário básico: palavras de alta frequência, vocabulário temático (comida, viagens, etc.)
+     - Formação de palavras: prefixos, sufixos, palavras compostas, falsos amigos entre as línguas
+     - Expressões idiomáticas: expressões idiomáticas, colocações, phrasal verbs e variações em cada idioma
+4. Compreensão de Leitura e Audição
+     - Estratégias de leitura: skimming, digitalização, leitura de informações específicas ou ideias principais
+     - Estratégias de escuta: escuta ativa, identificação da intenção e do contexto do orador, anotações
+     - Tipos e gêneros de texto: ficção, não ficção, artigos de notícias, podcasts, vídeos e clipes de áudio
+5. Habilidades de fala e escrita
+     - Fluência de fala: prática de pronúncia, habilidades de conversação, expressão de opiniões
+     - Mecânica da escrita: formação de frases, parágrafos, pontuação, tom e estilo
+     - Tipos de escrita: correspondência formal/informal (e-mails, cartas) e ensaios
+6. Contexto cultural e uso da linguagem
+     - Normas sociais: saudações, etiqueta, polidez e formalidade, visão cultural de cada país
+     - Variações regionais: dialetos, sotaques, expressões coloquiais, diferenças de vocabulário
+     - História e cultura: insights sobre literatura, artes, tradições e costumes
+-
+JP - CH - KR
+1. Pronúncia e Fonética
+    - Sons de vogais: vogais longas/curtas, sons de vogais específicos exclusivos para cada idioma
+    - Sons consonantais: consoantes sonoras/surdas, consoantes específicas exclusivas de cada idioma
+    - Padrões de entonação e acentuação: acentuação da frase, entonação descendente/ascendente e acentos agudos
+2. Sistemas de Escrita e Personagens
+    - Japonês: Hiragana, Katakana e Kanji
+    - Chinês: caracteres chineses simplificados e tradicionais, ordem dos traços
+    - Coreano: alfabeto silábico Hangul, ordem dos traços e composição dos caracteres
+3. Fundamentos da gramática
+    - Substantivos, partículas e pronomes: sujeito, objeto, possessivo, demonstrativo
+    - Verbos e adjetivos: conjugação, verbos regulares/irregulares, tempos verbais, honoríficos (níveis de polidez)
+    - Estrutura da frase: ordem básica das palavras, negação, perguntas e frases compostas/complexas
+4. Desenvolvimento de Vocabulário
+    - Vocabulário básico: palavras de alta frequência, vocabulário temático (comida, viagens, etc.)
+    - Formação de palavras: empréstimo de caracteres chineses, palavras nativas e palavras emprestadas
+    - Expressões idiomáticas: expressões idiomáticas, palavras compostas e expressões únicas em cada idioma
+5. Compreensão de Leitura e Audição
+    - Estratégias de leitura: compreensão do contexto, leitura das ideias principais e informações específicas
+    - Estratégias de escuta: escuta ativa, identificação da intenção e do contexto do orador, anotações
+    - Tipos e gêneros de texto: quadrinhos, webtoons, podcasts, vídeos e clipes de áudio de diferentes fontes
+6. Contexto cultural e uso da linguagem
+    - Normas sociais: saudações e etiqueta, níveis de polidez e diferenças na formalidade
+    - Variações regionais: dialetos, sotaques, expressões coloquiais e diferenças de vocabulário
+    - História e cultura: insights sobre literatura, artes, tradições e costumes
+-
+RU - PL
+1. Pronúncia e Fonética
+    - Sons de vogais: vogais longas/curtas, sons de vogais específicos exclusivos para cada idioma
+    - Sons consonantais: consoantes sonoras/surdas, consoantes únicas e sinais suaves/rígidos
+    - Padrões de entonação e acentuação: acentuação da palavra, acentuação da frase, entonação descendente/ascendente
+2. Sistema de Escrita e Alfabeto
+    - Alfabeto cirílico (russo) e alfabeto latino (polonês): caracteres únicos, pronúncia e escrita cursiva
+    - Elementos básicos: combinações consoante-vogal, consoantes duplas e dígrafos
+    - Prática de leitura: exemplos de textos e exercícios para se familiarizar com os alfabetos
+3. Fundamentos da gramática
+    - Substantivos e casos: nominativo, genitivo, dativo, acusativo, instrumental e casos preposicionais (russo); casos nominativo, genitivo, dativo, acusativo, instrumental e locativo (polonês)
+    - Verbos: conjugação, verbos regulares/irregulares, aspecto (perfeito e imperfeito), tempos e prefixos verbais
+    - Estrutura da frase: ordem básica das palavras, negação, perguntas e frases compostas/complexas
+4. Desenvolvimento de Vocabulário
+    - Vocabulário básico: palavras de alta frequência, vocabulário temático (comida, viagens, etc.) e cognatos
+    - Formação de palavras: prefixos, sufixos, palavras compostas e padrões específicos do idioma
+    - Expressões idiomáticas: expressões idiomáticas, colocações e expressões únicas em russo e polonês
+5. Compreensão de Leitura e Audição
+    - Estratégias de leitura: compreensão do contexto, leitura das ideias principais e informações específicas
+    - Estratégias de escuta: escuta ativa, identificação da intenção e do contexto do orador, anotações
+    - Tipos e gêneros de texto: artigos de notícias, podcasts, vídeos e clipes de áudio de diferentes fontes
+6. Habilidades de fala e escrita
+    - Fluência de fala: prática de pronúncia, habilidades básicas de conversação, expressão de opiniões básicas
+    - Mecânica da escrita: formação de frases, parágrafos, pontuação e expressões comuns
+    - Tipos de escrita: mensagens informais e escrita formal básica, como breves e-mails ou cartas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
